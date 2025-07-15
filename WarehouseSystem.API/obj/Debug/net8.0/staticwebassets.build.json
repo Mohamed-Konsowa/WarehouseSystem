@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JxsTSzTxMSdLCkUMfMzyRlSVf2dAohNOzZ2rx96p7WM=",
+  "Source": "WarehouseSystem.API",
+  "BasePath": "_content/WarehouseSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
