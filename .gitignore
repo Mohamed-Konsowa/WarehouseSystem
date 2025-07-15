@@ -1,0 +1,55 @@
+############################
+# Common .NET Ignore Rules #
+############################
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+**/[Bb]in/
+**/[Oo]bj/
+**/x64/
+**/x86/
+**/Debug/
+**/Release/
+**/build/
+**/artifacts/
+
+# Rider and VS Code
+.idea/
+.vscode/
+
+# ASP.NET
+**/wwwroot/
+
+# Test results
+TestResults/
+**/*.Tests/TestResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+
+# Logs
+*.log
+
+# dotCover, ReSharper, NCrunch
+*.dotCover
+_ReSharper*/
+*.ncrunch*
+*.localhistory/
+
+# System Files
+Thumbs.db
+ehthumbs.db
+
+# Publish files
+**/publish/
+**/out/
