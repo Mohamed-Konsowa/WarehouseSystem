@@ -1,7 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Backend .net\\Projects\\WarehouseSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\productauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\productauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|d:\\backend .net\\projects\\warehousesystem\\warehousesystem.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82323E08-C5E6-4BF1-BF0A-72B53D340943}|WarehouseSystem.Domain\\WarehouseSystem.Domain.csproj|solutionrelative:warehousesystem.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +70,206 @@
       "DocumentGroups": [
         {
           "DockedHeight": 92,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAImpmZmRk0wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:16:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductAuditLog.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\ProductAuditLog.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\ProductAuditLog.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\ProductAuditLog.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\ProductAuditLog.cs",
+              "ViewState": "AgIAAAcAAABAmJmZmZkhwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:55:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\PurchaseOrder.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\PurchaseOrder.cs*",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\PurchaseOrder.cs*",
+              "ViewState": "AgIAAAwAAABAZmZmZmYowA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:04:53.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\Payment.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:07:06.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:05:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesOrder.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\SalesOrder.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\SalesOrder.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\SalesOrder.cs*",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\SalesOrder.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:06:31.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAIAAABg//////8gwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:22:18.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\Supplier.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Supplier.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAAAAABwmZmZmZkuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:25:36.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\UserRole.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:30:00.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Warehouse.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\Warehouse.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Warehouse.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:12:15.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\Notification.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Notification.cs*",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\Notification.cs*",
+              "ViewState": "AgIAAAEAAACAMjMzMzMbwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:59:32.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryTransaction.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\InventoryTransaction.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\InventoryTransaction.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\InventoryTransaction.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\InventoryTransaction.cs",
+              "ViewState": "AgIAAAgAAADAmJmZmZkhwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:19:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:24:18.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:15:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "WarehouseSystem.Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\Backend .net\\Projects\\WarehouseSystem\\WarehouseSystem.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "WarehouseSystem.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:22:51.346Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -28,16 +284,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 6,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
