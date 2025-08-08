@@ -1,11 +1,7 @@
-﻿
+﻿using WarehouseSystem.Domain.Enums;
+
 namespace WarehouseSystem.Domain.Entities
 {
-	public enum TransactionType
-	{
-		StockIn,
-		StockOut
-	}
 	public class InventoryTransaction
 	{
 		public Guid Id { get; set; }
@@ -14,5 +10,7 @@ namespace WarehouseSystem.Domain.Entities
 		public int Quantity { get; set; }
 		public DateTime TransactionDate { get; set; } = DateTime.UtcNow;
 		public string? Note { get; set; }
+
+		public Product Product { get; set; } = null!;
 	}
 }

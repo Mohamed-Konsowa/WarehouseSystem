@@ -9,5 +9,7 @@ namespace WarehouseSystem.Domain.Entities
 		public string Email { get; set; } = null!;
 		public string Address { get; set; } = null!;
 
+		public ICollection<Product> Products { get; set; } = new List<Product>();
+
 	}
 }

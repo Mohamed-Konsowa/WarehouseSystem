@@ -1,13 +1,15 @@
-﻿
+﻿using WarehouseSystem.Domain.Enums;
+
 namespace WarehouseSystem.Domain.Entities
 {
-	public class Payment
-	{
+	public class PurchasePayment
+    {
 		public Guid Id { get; set; }
 		public Guid OrderId { get; set; }
 		public decimal Amount { get; set; }
-		public string Method { get; set; } = "Cash"; // Cash, Credit, Transfer, etc.
+		public PaymentMethod Method { get; set; } = PaymentMethod.Cash;
 		public DateTime PaymentDate { get; set; } = DateTime.UtcNow;
 
-	}
+		public PurchaseOrder Order { get; set; } = null!;
+    }
 }

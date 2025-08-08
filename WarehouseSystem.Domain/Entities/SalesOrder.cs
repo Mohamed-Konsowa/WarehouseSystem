@@ -1,4 +1,5 @@
-﻿
+﻿using WarehouseSystem.Domain.Enums;
+
 namespace WarehouseSystem.Domain.Entities
 {
 	public class SalesOrder
@@ -8,5 +9,7 @@ namespace WarehouseSystem.Domain.Entities
 		public DateTime OrderDate { get; set; } = DateTime.UtcNow;
 		public OrderStatus Status { get; set; } = OrderStatus.Pending;  // Delivered, Cancelled, etc.
 
-	}
+        public Customer Customer { get; set; } = null!;
+        public ICollection<SalesOrderItem> Items { get; set; } = new List<SalesOrderItem>();
+    }
 }
