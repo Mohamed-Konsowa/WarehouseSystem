@@ -8,6 +8,6 @@ namespace WarehouseSystem.Domain.Entities
 		public string Phone { get; set; } = null!;
 		public string Email { get; set; } = null!;
 
-		public ICollection<SalesOrder> SalesOrders { get; set; }
-	}
+		public ICollection<SalesOrder> SalesOrders { get; set; } = new List<SalesOrder>();
+    }
 }
