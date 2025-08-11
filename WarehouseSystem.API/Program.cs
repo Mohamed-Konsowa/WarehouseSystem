@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using WarehouseSystem.Infrastructure.Context;
 
 namespace WarehouseSystem.API
 {
@@ -14,6 +16,10 @@ namespace WarehouseSystem.API
 			builder.Services.AddEndpointsApiExplorer();
 			builder.Services.AddSwaggerGen();
 
+			builder.Services.AddDbContext<WareHouseDbContext>(options =>
+			{
+				options.UseSqlServer(builder.Configuration.GetConnectionString("DeafultConnection"));
+			});
 			var app = builder.Build();
 
 			// Configure the HTTP request pipeline.
